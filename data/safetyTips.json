@@ -1,0 +1,32 @@
+{
+  "Fire": [
+    "Do not use elevators during a fire.",
+    "Feel the door before opening — if hot, do not open.",
+    "Move to the nearest emergency exit stairwell."
+  ],
+  "Medical": [
+    "Call for help immediately.",
+    "Do not move the person unless they are in immediate danger.",
+    "Stay with the person until help arrives."
+  ],
+  "Security Threat": [
+    "Remain calm and do not approach the threat.",
+    "Follow instructions from security personnel.",
+    "Move to a safe location if possible."
+  ],
+  "Flood": [
+    "Avoid contact with floodwater.",
+    "Turn off electricity if safe to do so.",
+    "Move to higher ground."
+  ],
+  "Power Outage": [
+    "Stay where you are if it's safe.",
+    "Use flashlights instead of candles.",
+    "Wait for further instructions from staff."
+  ],
+  "Other": [
+    "Stay calm.",
+    "Contact staff for assistance.",
+    "Follow general safety procedures."
+  ]
+}

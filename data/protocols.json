@@ -1,0 +1,38 @@
+[
+  {
+    "id": "p1",
+    "type": "Fire",
+    "title": "Fire Emergency Protocol",
+    "steps": [
+      "Activate the nearest fire alarm pull station.",
+      "Call emergency services immediately.",
+      "Begin guest evacuation via emergency stairwells.",
+      "Account for all guests at the designated muster point.",
+      "Do not re-enter the building until cleared by fire department."
+    ]
+  },
+  {
+    "id": "p2",
+    "type": "Medical",
+    "title": "Medical Emergency Protocol",
+    "steps": [
+      "Assess the scene for safety.",
+      "Call for on-site medical staff or 911.",
+      "Provide basic first aid if trained.",
+      "Keep the patient calm and comfortable.",
+      "Clear the area for emergency responders."
+    ]
+  },
+  {
+    "id": "p3",
+    "type": "Security Threat",
+    "title": "Security Threat Protocol",
+    "steps": [
+      "Notify security immediately.",
+      "Initiate lockdown procedures if necessary.",
+      "Keep guests away from the threat area.",
+      "Cooperate with law enforcement.",
+      "Document the incident details as soon as safe."
+    ]
+  }
+]
